@@ -37,3 +37,11 @@ In our project we decided to upload the spreadsheet three times to create layers
 * Subject
 * Synopsis + Index terms
 
+#### Title Settings
+![Settings screen for the Title layer](assets/images/ohms_aa_title.png)
+#### Synopsis and Keyword Settings
+![Settings screen for the Title layer](assets/images/ohms_aa_synopsis.png)
+
+#### Subject Settings
+![Settings screen for the Title layer](assets/images/ohms_aa_subjects.png)
+
