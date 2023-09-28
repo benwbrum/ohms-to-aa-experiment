@@ -1,0 +1,273 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/ohms-to-aa-experiment/annotations/voces-oral-history-project-interview-with-norma-cant--canvas-1-synopsis.json",
+  "type": "AnnotationPage",
+  "label": "Synopsis",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-synopsis-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-synopsis-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A 5th generation Texas, Norma Cantú grew up in Brownsville in the 1950’s. Education was important in her family, and Cantú’s mother used a connection from a friend to get Norma and her brother into a preschool. By the time she went to Webb Elementary, she was able to skip 1st grade. The school system was unfair: they would make Spanish-speaking students take every grade twice, causing many students to drop out. Following Webb she went to Annie S. Putegnat Elementary School. The school’s facilities were in poor condition. She skipped 6th grade and went straight to junior high. Then she went to Brownsville High, where  teachers and students had to deal with overcrowding and lack of funding. She then went to Texas Southmost College to stay close to home and because she got a full ride. She then transferred to Pan American University at Edinburg, where she completed her undergrad in 2 years at the age of 19 with a double major in English and Government with an minor in Education. Her first job out of school was teaching at Brownsville High, where she had been a student just two years prior. Following this she decided follow her dream and apply to law school; she was accepted with a full ride to Harvard, becoming the first Tejana to attend Harvard Law School.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alfabeto;Anranchos;Brownsville;Brownsville High;Civil Rights Movement;Economic disparity;Harvard;Higher Education;Military;Pan American University at Edinburg;Poverty;The Valley;Webb Elementary;Women’s Liberation Movement",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-synopsis-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "After Harvard Law School, Cantú went back to Texas and worked in the Texas Attorney General's Office, in the Consumer Protection Division under Ann Richards. Specifically, she worked for the Nursing Home Taskforce where she and her colleagues fought for the rights of the elderly who were subject to abuse in retirement homes. Following her time at the Attorney General's office, Cantú and her husband moved to San Antonio. She then began working for MALDEF as an education lawyer. Cantú worked on important cases including Plyler v.s Doe, in which the State of Texas argued that they had the justification to exclude immigrant children from public education. MALDEF won that case.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Albert Kauffman;Ann Richards;Chicana rights group;Consumer Protection Division;Education Lawyer;MALDEF;Plyler v. Doe;San Antonio;Segregation in education;Texas Attorney General's Office",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1021"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-synopsis-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Cantú sets the scene for the case of LULAC v. Richards (later Clements), introducing the lawyers on the case and their respective roles. She explains some important events and court cases leading up to LULAC v. Richards. The team of lawyers received advice from higher education officials, forming a plan centered around third party reports saying the State of Texas disproportionately distributed higher education funds across economic lines. She also cited an investigation of the State of Texas made by the US Department of Justice regarding segregation of higher education; as part of the settlement, Texas promised to invest in minority heavy colleges, but then failed to do so.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Adams v. Bell;Albert Kauffman;Disparities in Education;Edgewood v. Kirby;El Paso;Jaime Chahin;LULAC;LULAC v. Clements;LULAC v.Richards;Raza Unida;Rosie Castro;San Antonio;US Department of Justice",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1329"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-synopsis-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Cantú and her colleagues carefully built their case against the State of Texas. They chose the name “Border Initiative” and framed the case as a class action lawsuit. While Cantú was doing her own research, she found racial undertones involved in the allocation of higher education funds across the state. The Texas Attorney General's office argued that higher education was not a fundamental right. Ultimately a federal judge ruled that State of Texas’ funding format was unconstitutional on the basis of denying students right to a public higher education, but it was not proven that the state acted with intent of racial discrimination.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Border area;Confederate memorabilia;discrimination;Joaquin Cigarroa;Laredo;Latino civil rights;South Texas Border initiative;Texas State Attorney General;Texas Tech;UT Austin",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1745"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-synopsis-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In response to the ruling of unconstitutionality, before the case was heard at the Supreme Court, the Texas legislature under Ann Richards acted to request a settlement proposal from the border region. This unified the border communities as they came together to decide how much each area needed for higher education. The state approved at total of $660,000,000 to go towards investing in higher education along the border. It was after the allocation of these finds that the case was seen in front of the Supreme Court, where they LULAC lost because the region had already been awarded that money. In the years following, that money was put into master's and doctoral programs as well as the creation of medical schools and other professional schools in cities such as Laredo and Corpus Christi. However, Cantú sees threats to public higher education funding in Texas today.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ann Richards;Appeal;Border Initiative;Corpus Christi;El Paso;Kingsville;Laredo;LULAC v. Clements;LULAC v. Richards;MALDEF;San Antonio;South texas border initiative;Start Up Money;Supreme Court",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2642"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-synopsis-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Cantú reflects on her career as MALDEF lawyer, citing specific cases and their impact on the state and Latino communities as a collective. She speaks on some of the testimonies during  LULAC v. Clements and tells a story about her first time in Austin at the capitol during Vietnam protest. Cantú talks about the sociopolitical climate when she was at Harvard. She also goes into more detail about higher education funding discrepancies, the future of higher education in Texas, and working within the federal Department of Education.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Adams v. Bell;Affirmative action;Anna Maria Martel;Austin;Brownsville;Census;David Lopez;Doe v. Plyler;Dr. Henry Cisneros;Harvard;Joaquin Cigarroa;Latino community;LULAC v. Clements;MALDEF;Reynaldo Garza Law School;Texas Capitol;Texas Rangers;Ulanda Garza;Vietnam;Voting right act of 1964;White v. Register;Women's rights",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3383"
+        }
+      }
+    }
+  ]
+}
