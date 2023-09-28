@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "OHMS to AA Experiment" ] },
+    "summary": { "en": [ "Exploration of an AA-hosted option for OHMS-XML" ] },
+    "items": [
+    ]
+}
