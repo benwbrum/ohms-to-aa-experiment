@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/ohms-to-aa-experiment/annotations/voces-oral-history-project-interview-with-norma-cant--canvas-1-subjects.json",
+  "type": "AnnotationPage",
+  "label": "Subjects",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-subjects-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-subjects-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "bilingual education;Childhood;Discrimination in higher education;Diversity in higher education;Higher education;Higher education and state;Higher education institutions;Higher education providers;Hispanic Americans--United States;Hispanics (United States);Latino Americans;Latinos (United States);Minorities in higher education;Minority women in higher education;Norma Cantú;Pan American University;Spanish Americans in the United States;Spanish language--Usage;Spanish-speaking people (United States);Spanish-surnamed people (United States);Texas Southmost College;University of Texas at Austin;University of Texas at Brownsville and Texas Southmost College;University of Texas--Pan American at Brownsville;youth",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-subjects-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Al Kauffman;Ann Richards;Consumer Protection Division;Hispanic Americans--United States;Hispanics (United States);Latino Americans;Latinos (United States);LULAC;M.A.L.D.E.F.;MALDEF;Mexican American Legal Defense and Educational Fund;Mexican American Legal Defense and Educational Fund';Plyler v. Doe;San Antonio;Spanish Americans in the United States",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1021"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-subjects-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Adams v. Bell;Albert Kauffman;Ann Richards;College students—Education;Discrimination in higher education;Diversity in higher education;Edgewood v. Kirby;Higher education;Higher education and state;Higher education institutions;Higher education providers;Hispanic Americans--United States;Hispanics (United States);Jamie Chahin;Latino Americans;Latinos (United States);LULAC v. Clements;LULAC v. Richards;M.A.L.D.E.F.;MALDEF;Mexican American Legal Defense and Educational Fund;Minority women in higher education;Raza Unida;San Antonio;Spanish Americans in the United States;Supreme Court;Texas Legislature",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1329"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-subjects-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "College students—Education;Colleges;Degree-granting institutions;Discrimination in higher education;Diversity in higher education;Higher education and state;Higher education institutions;Higher education providers;Joaquin Cigarroa;Laredo;Legal Defense and Educational Fund;LULAC v. Clements;LULAC v. Richards;M.A.L.D.E.F.;MALDEF;Mexican American Legal Defense and Educational Fund;Minorities in higher education;Postsecondary education;Public Institutions;Public universities and colleges;South Texas Border Initiative;Texas Higher Education Coordinating Board;Texas Tech University",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1745"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-subjects-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ann Richards;College students—Education;Colleges;Degree-granting institutions;Discrimination in higher education;Diversity in higher education;Higher education;Higher education and state;Higher education institutions;Higher education providers;Hispanic Americans--United States;Hispanics (United States);Kingsville (Tex.);Latino Americans;Latinos (United States);LULAC;LULAC v. Clements;LULAC v. Richards;M.A.L.D.E.F.;MALDEF;Minorities in higher education;Minority women in higher education;Public Institutions;Public universities and colleges;Racism in higher education;San Antonio;South Texas Border Initiative;Supreme Court;Texas Higher Education",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2642"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-oral-history-project-interview-with-norma-cant--canvas-1-subjects-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Adams v Bell;Anna Maria Martel;Dr. Henry Cisneros;Hispanic Americans--United States;Hispanics (United States);Latino Americans;Latinos (United States);LULAC;MALDEF;Plyler v. Doe;Postsecondary education;Public Institutions;Public universities and colleges;Reynaldo Garza Law School;Ulanda Garza;Vietnam;Voting Rights Act of 1964;White v. Register",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3383"
+        }
+      }
+    }
+  ]
+}
