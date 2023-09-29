@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://benwbrum.github.io/ohms-to-aa-experiment/annotations/voces-oral-history-project-interview-with-norma-cant--canvas-1-subjects.json",
-            "label": {
-              "none": ["Subjects"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://benwbrum.github.io/ohms-to-aa-experiment/annotations/voces-oral-history-project-interview-with-norma-cant--canvas-1-synopsis.json",
             "label": {
               "none": ["Synopsis"]
