@@ -8,6 +8,16 @@
         "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4000,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/ohms-to-aa-experiment/annotations/voces-oral-history-project-interview-with-norma-cant--canvas-1-title.json",
+            "label": {
+              "none": ["Title"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://benwbrum.github.io/ohms-to-aa-experiment/voces-oral-history-project-interview-with-norma-cant-/canvas-1/paintings",
